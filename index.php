@@ -55,6 +55,7 @@
 <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
 <script>
     $.widget.bridge('uibutton', $.ui.button);
+    test
 </script>
 <!-- Bootstrap 3.3.6 -->
 <script src="/GeosCMS/web/bootstrap/js/bootstrap.min.js"></script>
